@@ -1,0 +1,79 @@
+
+body{background-image: url(image/fond.png);}
+
+
+
+
+
+#homero{ width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgb(93, 209, 255);
+    background-image:url(image/bob.png) ;
+    padding: 50px;
+    border: 5px solid rgb(255, 208, 52) ;
+    float: left;
+    background-color: rgba(255, 0, 0, 0.644);
+    color: aliceblue
+}
+
+#marge{ width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgba(240, 187, 40, 0.295);
+    background-image:url(image/elastiguer.webp) ;
+    padding: 50px;
+    border: 5px solid rgb(255, 208, 52) ;
+    float: left;
+    color: aliceblue
+}
+
+#bart{ width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgba(148, 34, 138, 0.164);
+    background-image:url(image/violeta.webp) ;
+    padding: 50px;
+    border: 5px solid rgb(255, 208, 52) ;
+    float: left;
+    color: aliceblue
+}
+
+#bart{ width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgba(138, 62, 121, 0.425);
+    background-image:url(image/violeta.webp) ;
+    padding: 50px;
+    border: 5px solid rgb(255, 208, 52) ;
+    float: left;
+    background-repeat: no-repeat;
+    color: aliceblue
+}
+
+#dash{width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgba(230, 82, 9, 0.705);
+    background-image:url(image/dash.webp) ;
+    padding: 50px;
+    border: 5px solid rgb(255, 208, 52) ;
+    float: left;
+    color: aliceblue
+}
+
+p{padding-top: 235px}
+
+@font-face{font-family:increibles;
+    src: url(fonts/increiblefuente.ttf)
+
+}
+
+h1{font-family:increibles;
+font-size:100PX;
+color: rgb(255, 196, 2);
+text-align: center}
+
+
+
+
